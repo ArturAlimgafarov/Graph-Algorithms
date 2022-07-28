@@ -1,0 +1,20 @@
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe.config
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.pdb
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ_НА_ГРАФАХ.Form1.resources
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ_НА_ГРАФАХ.Properties.Resources.resources
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe
+C:\Users\artur\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.pdb
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe.config
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\bin\Debug\АЛГОРИТМЫ НА ГРАФАХ.pdb
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csprojAssemblyReference.cache
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ_НА_ГРАФАХ.Form1.resources
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ_НА_ГРАФАХ.Properties.Resources.resources
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csproj.GenerateResource.cache
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.csproj.CoreCompileInputs.cache
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.exe
+C:\Users\ARTURIO\source\repos\АЛГОРИТМЫ НА ГРАФАХ\АЛГОРИТМЫ НА ГРАФАХ\obj\Debug\АЛГОРИТМЫ НА ГРАФАХ.pdb
